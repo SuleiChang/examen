@@ -31,8 +31,8 @@ npm run dev
 
 ## Requisitos
 
-- Node.js (versión X.X.X o superior)
-- npm (versión X.X.X o superior)
+- Node.js (versión 18.X.X o superior)
+- npm (versión 9.X.X o superior)
 
 ## Desarrollo
 
