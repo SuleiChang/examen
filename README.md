@@ -49,3 +49,8 @@ npm run dev
 ![image](https://github.com/user-attachments/assets/b3315c40-aeac-4d27-ac6e-7f5f33730cc2)
 
 ![image](https://github.com/user-attachments/assets/c5d0af38-87e2-40ca-b84b-559d526b8ef9)
+
+4. Base de datos
+
+![image](https://github.com/user-attachments/assets/227775da-5ad4-445e-89f8-7a91f67c6983)
+
